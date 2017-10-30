@@ -1,3 +1,5 @@
+//Class for anagram dictionary
+
 package com.google.engedu.anagrams;
 
 import java.io.BufferedReader;
